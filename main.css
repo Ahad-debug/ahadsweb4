@@ -10,8 +10,7 @@ body {
 }
 
 #kik {
-  background: #642b73;
-  background: -webkit-linear-gradient(to right, #c6426e, #642b73);
+  background: #b91d73;
 }
 
 #knapp a {
@@ -74,4 +73,10 @@ footer {
   bottom: 0px;
   width: 100%;
   height: 60px;
+}
+a {
+  text-decoration: none;
+}
+#intro {
+  font-size: 20px;
 }
