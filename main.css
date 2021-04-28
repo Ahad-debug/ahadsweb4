@@ -1,0 +1,77 @@
+:root {
+}
+
+html,
+body {
+  background: #f953c6;
+  background: -webkit-linear-gradient(to right, #b91d73, #f953c6);
+  background: linear-gradient(to right, #b91d73, #f953c6);
+  margin: 0px;
+}
+
+#kik {
+  background: #642b73;
+  background: -webkit-linear-gradient(to right, #c6426e, #642b73);
+}
+
+#knapp a {
+  padding: 10px;
+  background: #0f2027;
+  background: -webkit-linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  color: White;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+#knapp ul {
+  list-style: none;
+  margin-left: 39vw;
+}
+
+header {
+  font-size: 20 px;
+  letter-spacing: 2vw;
+  text-align: center;
+  font-family: "Monoton", cursive;
+}
+h2 {
+  font-family: "Courgette", cursive;
+  text-align: center;
+}
+h3 {
+  font-family: "Courgette", cursive;
+  text-align: center;
+}
+
+button {
+  background: transparent;
+  border: 0;
+  font-size: 1rem;
+  color: inherit;
+  cursor: pointer;
+}
+p {
+  display: flex;
+  justify-content: left;
+  font-family: "Courgette", cursive;
+}
+
+article p {
+  font-family: "Courgette", cursive;
+  margin-left: 50vw;
+}
+footer {
+  text-align: center;
+  background: #642b73;
+  background: -webkit-linear-gradient(to right, #c6426e, #642b73);
+  background: linear-gradient(to right, #c6426e, #642b73);
+
+  padding: 8px;
+  margin: 0px;
+
+  position: bottom;
+  bottom: 0px;
+  width: 100%;
+  height: 60px;
+}
